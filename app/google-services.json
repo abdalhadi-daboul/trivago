@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "782041725120",
+    "project_id": "trivago-a3d16",
+    "storage_bucket": "trivago-a3d16.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:782041725120:android:9737628c8e4b97e8c71525",
+        "android_client_info": {
+          "package_name": "com.example.trivago"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "782041725120-ll1mks55ua4vl6g8b9m8ijiklhm58n6g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPvL_hkqNa2bPtnR1HMKR4Z-SJXY_8GEM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "782041725120-ll1mks55ua4vl6g8b9m8ijiklhm58n6g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
